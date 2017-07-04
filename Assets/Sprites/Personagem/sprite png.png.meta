@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 6d14f7a99678a844e9cc24cccd8433a4
+timeCreated: 1463489143
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite png_0
+    21300002: sprite png_1
+    21300004: sprite png_2
+    21300006: sprite png_3
+    21300008: sprite png_4
+    21300010: sprite png_5
+    21300012: sprite png_6
+    21300014: sprite png_7
+    21300016: sprite png_8
+    21300018: sprite png_9
+    21300020: sprite png_10
+    21300022: sprite png_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sprite png_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 387
+        width: 82
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 52.5}
+        - {x: -41, y: 43.5}
+        - {x: -41, y: -26.5}
+        - {x: -28, y: -52.5}
+        - {x: 14, y: -52.5}
+        - {x: 41, y: 12.5}
+        - {x: 41, y: 36.5}
+        - {x: 26, y: 52.5}
+    - name: sprite png_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 388
+        width: 81
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 53}
+        - {x: -40.5, y: -12}
+        - {x: -32.5, y: -53}
+        - {x: 25.5, y: -53}
+        - {x: 40.5, y: 8}
+        - {x: 40.5, y: 35}
+        - {x: 26.5, y: 53}
+    - name: sprite png_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 384
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 56}
+        - {x: -40.5, y: -31}
+        - {x: -34.5, y: -56}
+        - {x: 30.5, y: -56}
+        - {x: 40.5, y: -25}
+        - {x: 40.5, y: 43}
+        - {x: 35.5, y: 56}
+    - name: sprite png_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 275
+        width: 81
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 52}
+        - {x: -40.5, y: 42}
+        - {x: -40.5, y: 2}
+        - {x: -28.5, y: -30}
+        - {x: -13.5, y: -52}
+        - {x: 26.5, y: -52}
+        - {x: 40.5, y: -13}
+        - {x: 40.5, y: 51}
+        - {x: 38.5, y: 52}
+    - name: sprite png_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 275
+        width: 81
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 54.5}
+        - {x: -40.5, y: 44.5}
+        - {x: -40.5, y: -27.5}
+        - {x: -32.5, y: -54.5}
+        - {x: 29.5, y: -54.5}
+        - {x: 40.5, y: -22.5}
+        - {x: 40.5, y: 44.5}
+        - {x: 36.5, y: 54.5}
+    - name: sprite png_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 272
+        width: 83
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 53.5}
+        - {x: -41.5, y: 34.5}
+        - {x: -41.5, y: 21.5}
+        - {x: -35.5, y: 11.5}
+        - {x: -21.5, y: -46.5}
+        - {x: -10.5, y: -53.5}
+        - {x: 29.5, y: -53.5}
+        - {x: 41.5, y: -16.5}
+        - {x: 41.5, y: 49.5}
+        - {x: 40.5, y: 53.5}
+    - name: sprite png_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 149
+        width: 77
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 51.5}
+        - {x: -38.5, y: -48.5}
+        - {x: -28.5, y: -51.5}
+        - {x: 30.5, y: -51.5}
+        - {x: 38.5, y: -33.5}
+        - {x: 38.5, y: 10.5}
+        - {x: 33.5, y: 51.5}
+    - name: sprite png_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 149
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 51.5}
+        - {x: -38, y: 37.5}
+        - {x: -40, y: 12.5}
+        - {x: -40, y: -44.5}
+        - {x: -30, y: -51.5}
+        - {x: 18, y: -51.5}
+        - {x: 37, y: -46.5}
+        - {x: 40, y: -41.5}
+        - {x: 40, y: 23.5}
+        - {x: 33, y: 51.5}
+    - name: sprite png_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 148
+        width: 78
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -42}
+        - {x: 39, y: -38}
+        - {x: 39, y: 21}
+        - {x: 37, y: 40}
+        - {x: 22, y: 52}
+        - {x: -39, y: 52}
+        - {x: -39, y: -49}
+        - {x: -27, y: -52}
+        - {x: 19, y: -52}
+        - {x: 22, y: -39}
+        - {x: 22, y: -27}
+        - {x: 23, y: -34}
+    - name: sprite png_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 24
+        width: 77
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 54}
+        - {x: -38.5, y: 42}
+        - {x: -38.5, y: -33}
+        - {x: -29.5, y: -54}
+        - {x: 25.5, y: -54}
+        - {x: 38.5, y: -47}
+        - {x: 38.5, y: 48}
+        - {x: 25.5, y: 54}
+    - name: sprite png_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 24
+        width: 77
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 54}
+        - {x: -38.5, y: 50}
+        - {x: -38.5, y: -51}
+        - {x: -35.5, y: -54}
+        - {x: 24.5, y: -54}
+        - {x: 38.5, y: -40}
+        - {x: 38.5, y: 54}
+    - name: sprite png_11
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 26
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 52.5}
+        - {x: -37.5, y: 40.5}
+        - {x: -37.5, y: -31.5}
+        - {x: -21.5, y: -52.5}
+        - {x: 21.5, y: -52.5}
+        - {x: 37.5, y: -38.5}
+        - {x: 37.5, y: 31.5}
+        - {x: 33.5, y: 52.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1993 @@
+fileFormatVersion: 2
+guid: 14e42aa25ca1e2c4980a58885b2fb44b
+timeCreated: 1463104716
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tudao_0
+    21300002: tudao_1
+    21300004: tudao_2
+    21300006: tudao_3
+    21300008: tudao_4
+    21300010: tudao_5
+    21300012: tudao_6
+    21300014: tudao_7
+    21300016: tudao_8
+    21300018: tudao_9
+    21300020: tudao_10
+    21300022: tudao_11
+    21300024: tudao_12
+    21300026: tudao_13
+    21300028: tudao_14
+    21300030: tudao_15
+    21300032: tudao_16
+    21300034: tudao_17
+    21300036: tudao_18
+    21300038: tudao_19
+    21300040: tudao_20
+    21300042: tudao_21
+    21300044: tudao_22
+    21300046: tudao_23
+    21300048: tudao_24
+    21300050: tudao_25
+    21300052: tudao_26
+    21300054: tudao_27
+    21300056: tudao_28
+    21300058: tudao_29
+    21300060: tudao_30
+    21300062: tudao_31
+    21300064: tudao_32
+    21300066: tudao_33
+    21300068: tudao_34
+    21300070: tudao_35
+    21300072: tudao_36
+    21300074: tudao_37
+    21300076: tudao_38
+    21300078: tudao_39
+    21300080: tudao_40
+    21300082: tudao_41
+    21300084: tudao_42
+    21300086: tudao_43
+    21300088: tudao_44
+    21300090: tudao_45
+    21300092: tudao_46
+    21300094: tudao_47
+    21300096: tudao_48
+    21300098: tudao_49
+    21300100: tudao_50
+    21300102: tudao_51
+    21300104: tudao_52
+    21300106: tudao_53
+    21300108: tudao_54
+    21300110: tudao_55
+    21300112: tudao_56
+    21300114: tudao_57
+    21300116: tudao_58
+    21300118: tudao_59
+    21300120: tudao_60
+    21300122: tudao_61
+    21300124: tudao_62
+    21300126: tudao_63
+    21300128: tudao_64
+    21300130: tudao_65
+    21300132: tudao_66
+    21300134: tudao_67
+    21300136: tudao_68
+    21300138: tudao_69
+    21300140: tudao_70
+    21300142: tudao_71
+    21300144: tudao_72
+    21300146: tudao_73
+    21300148: tudao_74
+    21300150: tudao_75
+    21300152: tudao_76
+    21300154: tudao_77
+    21300156: tudao_78
+    21300158: tudao_79
+    21300160: tudao_80
+    21300162: tudao_81
+    21300164: tudao_82
+    21300166: tudao_83
+    21300168: tudao_84
+    21300170: tudao_85
+    21300172: tudao_86
+    21300174: tudao_87
+    21300176: tudao_88
+    21300178: tudao_89
+    21300180: tudao_90
+    21300182: tudao_91
+    21300184: tudao_92
+    21300186: tudao_93
+    21300188: tudao_94
+    21300190: tudao_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 35
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tudao_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 4}
+        - {x: 14, y: 7}
+        - {x: 9, y: 16}
+        - {x: -9, y: 16}
+        - {x: -15, y: 13}
+    - name: tudao_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -15, y: 7}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 5}
+        - {x: 8, y: 16}
+    - name: tudao_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -7, y: 16}
+        - {x: -10, y: 15}
+        - {x: -13, y: 7}
+        - {x: -15, y: -1}
+        - {x: -15, y: -11}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: -3}
+        - {x: 14, y: 6}
+    - name: tudao_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 4}
+        - {x: 14, y: 7}
+        - {x: 9, y: 16}
+        - {x: -9, y: 16}
+        - {x: -15, y: 13}
+    - name: tudao_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -15, y: 7}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 5}
+        - {x: 8, y: 16}
+    - name: tudao_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -7, y: 16}
+        - {x: -10, y: 15}
+        - {x: -13, y: 7}
+        - {x: -15, y: -1}
+        - {x: -15, y: -11}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: -3}
+        - {x: 14, y: 6}
+    - name: tudao_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 4}
+        - {x: 14, y: 7}
+        - {x: 9, y: 16}
+        - {x: -9, y: 16}
+        - {x: -15, y: 13}
+    - name: tudao_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -15, y: 7}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 5}
+        - {x: 8, y: 16}
+    - name: tudao_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -7, y: 16}
+        - {x: -10, y: 15}
+        - {x: -13, y: 7}
+        - {x: -15, y: -1}
+        - {x: -15, y: -11}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: -3}
+        - {x: 14, y: 6}
+    - name: tudao_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 4}
+        - {x: 14, y: 7}
+        - {x: 9, y: 16}
+        - {x: -9, y: 16}
+        - {x: -15, y: 13}
+    - name: tudao_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -15, y: 7}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 5}
+        - {x: 8, y: 16}
+    - name: tudao_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -7, y: 16}
+        - {x: -10, y: 15}
+        - {x: -13, y: 7}
+        - {x: -15, y: -1}
+        - {x: -15, y: -11}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: -3}
+        - {x: 14, y: 6}
+    - name: tudao_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -13, y: 9}
+        - {x: -13, y: -13}
+        - {x: -11, y: -15}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -11}
+        - {x: 11, y: 15}
+        - {x: 8, y: 16}
+    - name: tudao_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 12}
+        - {x: -11, y: -9}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -7}
+        - {x: 11, y: 12}
+        - {x: 8, y: 16}
+    - name: tudao_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 11}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: 15}
+        - {x: 10, y: 16}
+    - name: tudao_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -13, y: 9}
+        - {x: -13, y: -13}
+        - {x: -11, y: -15}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -11}
+        - {x: 11, y: 15}
+        - {x: 8, y: 16}
+    - name: tudao_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 12}
+        - {x: -11, y: -9}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -7}
+        - {x: 11, y: 12}
+        - {x: 8, y: 16}
+    - name: tudao_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 11}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: 15}
+        - {x: 10, y: 16}
+    - name: tudao_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -13, y: 9}
+        - {x: -13, y: -13}
+        - {x: -11, y: -15}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -11}
+        - {x: 11, y: 15}
+        - {x: 8, y: 16}
+    - name: tudao_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 12}
+        - {x: -11, y: -9}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -7}
+        - {x: 11, y: 12}
+        - {x: 8, y: 16}
+    - name: tudao_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 11}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: 15}
+        - {x: 10, y: 16}
+    - name: tudao_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -13, y: 9}
+        - {x: -13, y: -13}
+        - {x: -11, y: -15}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -11}
+        - {x: 11, y: 15}
+        - {x: 8, y: 16}
+    - name: tudao_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 12}
+        - {x: -11, y: -9}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -7}
+        - {x: 11, y: 12}
+        - {x: 8, y: 16}
+    - name: tudao_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 11}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: 15}
+        - {x: 10, y: 16}
+    - name: tudao_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -12, y: 15}
+        - {x: -12, y: -4}
+        - {x: -11, y: -8}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 15}
+        - {x: 9, y: 16}
+    - name: tudao_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -8}
+        - {x: 11, y: 13}
+    - name: tudao_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 15}
+        - {x: -11, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -13}
+        - {x: 13, y: 9}
+        - {x: 11, y: 16}
+    - name: tudao_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -12, y: 15}
+        - {x: -12, y: -4}
+        - {x: -11, y: -8}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 15}
+        - {x: 9, y: 16}
+    - name: tudao_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -8}
+        - {x: 11, y: 13}
+    - name: tudao_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 15}
+        - {x: -11, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -13}
+        - {x: 13, y: 9}
+        - {x: 11, y: 16}
+    - name: tudao_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -12, y: 15}
+        - {x: -12, y: -4}
+        - {x: -11, y: -8}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 15}
+        - {x: 9, y: 16}
+    - name: tudao_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -8}
+        - {x: 11, y: 13}
+    - name: tudao_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 15}
+        - {x: -11, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -13}
+        - {x: 13, y: 9}
+        - {x: 11, y: 16}
+    - name: tudao_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -12, y: 15}
+        - {x: -12, y: -4}
+        - {x: -11, y: -8}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 15}
+        - {x: 9, y: 16}
+    - name: tudao_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -8}
+        - {x: 11, y: 13}
+    - name: tudao_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 15}
+        - {x: -11, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -13}
+        - {x: 13, y: 9}
+        - {x: 11, y: 16}
+    - name: tudao_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -14, y: -16}
+        - {x: 6, y: -16}
+        - {x: 15, y: -12}
+        - {x: 15, y: 4}
+        - {x: 11, y: 15}
+        - {x: 9, y: 16}
+        - {x: -11, y: 16}
+        - {x: -15, y: 5}
+    - name: tudao_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -9, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -14}
+        - {x: -11, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 5}
+        - {x: 11, y: 15}
+    - name: tudao_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -8, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -14}
+        - {x: -9, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 9}
+        - {x: 13, y: 15}
+    - name: tudao_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -14, y: -16}
+        - {x: 6, y: -16}
+        - {x: 15, y: -12}
+        - {x: 15, y: 4}
+        - {x: 11, y: 15}
+        - {x: 9, y: 16}
+        - {x: -11, y: 16}
+        - {x: -15, y: 5}
+    - name: tudao_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -9, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -14}
+        - {x: -11, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 5}
+        - {x: 11, y: 15}
+    - name: tudao_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -8, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -14}
+        - {x: -9, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 9}
+        - {x: 13, y: 15}
+    - name: tudao_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -14, y: -16}
+        - {x: 6, y: -16}
+        - {x: 15, y: -12}
+        - {x: 15, y: 4}
+        - {x: 11, y: 15}
+        - {x: 9, y: 16}
+        - {x: -11, y: 16}
+        - {x: -15, y: 5}
+    - name: tudao_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -9, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -14}
+        - {x: -11, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 5}
+        - {x: 11, y: 15}
+    - name: tudao_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -8, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -14}
+        - {x: -9, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 9}
+        - {x: 13, y: 15}
+    - name: tudao_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -14, y: -16}
+        - {x: 6, y: -16}
+        - {x: 15, y: -12}
+        - {x: 15, y: 4}
+        - {x: 11, y: 15}
+        - {x: 9, y: 16}
+        - {x: -11, y: 16}
+        - {x: -15, y: 5}
+    - name: tudao_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -9, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -14}
+        - {x: -11, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 5}
+        - {x: 11, y: 15}
+    - name: tudao_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -8, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -14}
+        - {x: -9, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 9}
+        - {x: 13, y: 15}
+    - name: tudao_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 4}
+        - {x: 14, y: 7}
+        - {x: 9, y: 16}
+        - {x: -9, y: 16}
+        - {x: -15, y: 13}
+    - name: tudao_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -15, y: 7}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 5}
+        - {x: 8, y: 16}
+    - name: tudao_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -7, y: 16}
+        - {x: -10, y: 15}
+        - {x: -13, y: 7}
+        - {x: -15, y: -1}
+        - {x: -15, y: -11}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: -3}
+        - {x: 14, y: 6}
+    - name: tudao_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 4}
+        - {x: 14, y: 7}
+        - {x: 9, y: 16}
+        - {x: -9, y: 16}
+        - {x: -15, y: 13}
+    - name: tudao_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -15, y: 7}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 5}
+        - {x: 8, y: 16}
+    - name: tudao_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -7, y: 16}
+        - {x: -10, y: 15}
+        - {x: -13, y: 7}
+        - {x: -15, y: -1}
+        - {x: -15, y: -11}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: -3}
+        - {x: 14, y: 6}
+    - name: tudao_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 4}
+        - {x: 14, y: 7}
+        - {x: 9, y: 16}
+        - {x: -9, y: 16}
+        - {x: -15, y: 13}
+    - name: tudao_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -15, y: 7}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 5}
+        - {x: 8, y: 16}
+    - name: tudao_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -7, y: 16}
+        - {x: -10, y: 15}
+        - {x: -13, y: 7}
+        - {x: -15, y: -1}
+        - {x: -15, y: -11}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: -3}
+        - {x: 14, y: 6}
+    - name: tudao_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 4}
+        - {x: 14, y: 7}
+        - {x: 9, y: 16}
+        - {x: -9, y: 16}
+        - {x: -15, y: 13}
+    - name: tudao_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -15, y: 7}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 5}
+        - {x: 8, y: 16}
+    - name: tudao_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -7, y: 16}
+        - {x: -10, y: 15}
+        - {x: -13, y: 7}
+        - {x: -15, y: -1}
+        - {x: -15, y: -11}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 15, y: -10}
+        - {x: 15, y: -3}
+        - {x: 14, y: 6}
+    - name: tudao_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -13, y: 9}
+        - {x: -13, y: -13}
+        - {x: -11, y: -15}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -11}
+        - {x: 11, y: 15}
+        - {x: 8, y: 16}
+    - name: tudao_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 12}
+        - {x: -11, y: -9}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -7}
+        - {x: 11, y: 12}
+        - {x: 8, y: 16}
+    - name: tudao_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 11}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: 15}
+        - {x: 10, y: 16}
+    - name: tudao_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -13, y: 9}
+        - {x: -13, y: -13}
+        - {x: -11, y: -15}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -11}
+        - {x: 11, y: 15}
+        - {x: 8, y: 16}
+    - name: tudao_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 12}
+        - {x: -11, y: -9}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -7}
+        - {x: 11, y: 12}
+        - {x: 8, y: 16}
+    - name: tudao_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 11}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: 15}
+        - {x: 10, y: 16}
+    - name: tudao_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -13, y: 9}
+        - {x: -13, y: -13}
+        - {x: -11, y: -15}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -11}
+        - {x: 11, y: 15}
+        - {x: 8, y: 16}
+    - name: tudao_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 12}
+        - {x: -11, y: -9}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -7}
+        - {x: 11, y: 12}
+        - {x: 8, y: 16}
+    - name: tudao_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 11}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: 15}
+        - {x: 10, y: 16}
+    - name: tudao_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -13, y: 9}
+        - {x: -13, y: -13}
+        - {x: -11, y: -15}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -11}
+        - {x: 11, y: 15}
+        - {x: 8, y: 16}
+    - name: tudao_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 12}
+        - {x: -11, y: -9}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -7}
+        - {x: 11, y: 12}
+        - {x: 8, y: 16}
+    - name: tudao_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -10, y: 11}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: 15}
+        - {x: 10, y: 16}
+    - name: tudao_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -12, y: 15}
+        - {x: -12, y: -4}
+        - {x: -11, y: -8}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 15}
+        - {x: 9, y: 16}
+    - name: tudao_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -8}
+        - {x: 11, y: 13}
+    - name: tudao_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 15}
+        - {x: -11, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -13}
+        - {x: 13, y: 9}
+        - {x: 11, y: 16}
+    - name: tudao_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -12, y: 15}
+        - {x: -12, y: -4}
+        - {x: -11, y: -8}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 15}
+        - {x: 9, y: 16}
+    - name: tudao_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -8}
+        - {x: 11, y: 13}
+    - name: tudao_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 15}
+        - {x: -11, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -13}
+        - {x: 13, y: 9}
+        - {x: 11, y: 16}
+    - name: tudao_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -12, y: 15}
+        - {x: -12, y: -4}
+        - {x: -11, y: -8}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 15}
+        - {x: 9, y: 16}
+    - name: tudao_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -8}
+        - {x: 11, y: 13}
+    - name: tudao_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 15}
+        - {x: -11, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -13}
+        - {x: 13, y: 9}
+        - {x: 11, y: 16}
+    - name: tudao_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -12, y: 15}
+        - {x: -12, y: -4}
+        - {x: -11, y: -8}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 15}
+        - {x: 9, y: 16}
+    - name: tudao_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -8}
+        - {x: 11, y: 13}
+    - name: tudao_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -11, y: 15}
+        - {x: -11, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -13}
+        - {x: 13, y: 9}
+        - {x: 11, y: 16}
+    - name: tudao_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -14, y: -16}
+        - {x: 6, y: -16}
+        - {x: 15, y: -12}
+        - {x: 15, y: 4}
+        - {x: 11, y: 15}
+        - {x: 9, y: 16}
+        - {x: -11, y: 16}
+        - {x: -15, y: 5}
+    - name: tudao_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -9, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -14}
+        - {x: -11, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 5}
+        - {x: 11, y: 15}
+    - name: tudao_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -8, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -14}
+        - {x: -9, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 9}
+        - {x: 13, y: 15}
+    - name: tudao_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -14, y: -16}
+        - {x: 6, y: -16}
+        - {x: 15, y: -12}
+        - {x: 15, y: 4}
+        - {x: 11, y: 15}
+        - {x: 9, y: 16}
+        - {x: -11, y: 16}
+        - {x: -15, y: 5}
+    - name: tudao_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -9, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -14}
+        - {x: -11, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 5}
+        - {x: 11, y: 15}
+    - name: tudao_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -8, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -14}
+        - {x: -9, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 9}
+        - {x: 13, y: 15}
+    - name: tudao_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -14, y: -16}
+        - {x: 6, y: -16}
+        - {x: 15, y: -12}
+        - {x: 15, y: 4}
+        - {x: 11, y: 15}
+        - {x: 9, y: 16}
+        - {x: -11, y: 16}
+        - {x: -15, y: 5}
+    - name: tudao_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -9, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -14}
+        - {x: -11, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 5}
+        - {x: 11, y: 15}
+    - name: tudao_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -8, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -14}
+        - {x: -9, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 9}
+        - {x: 13, y: 15}
+    - name: tudao_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -15}
+        - {x: -14, y: -16}
+        - {x: 6, y: -16}
+        - {x: 15, y: -12}
+        - {x: 15, y: 4}
+        - {x: 11, y: 15}
+        - {x: 9, y: 16}
+        - {x: -11, y: 16}
+        - {x: -15, y: 5}
+    - name: tudao_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -9, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -14}
+        - {x: -11, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 5}
+        - {x: 11, y: 15}
+    - name: tudao_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -8, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -14}
+        - {x: -9, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 9}
+        - {x: 13, y: 15}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
